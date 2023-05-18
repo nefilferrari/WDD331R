@@ -1,0 +1,15 @@
+ANIMATION 3:
+1. Create 2 new divs. (we gonna make two half circles)
+2. Make itens flex and centered.
+3. Make two darkred half circles.
+4. Make both start at translate (0,0) so we will have a complete circle.
+5. Make right half circle move right and the left half circle move left by changing the translate point X.
+6. Hold a little bit with the half circles separated and then make it back at the starting position again.
+
+
+ANIMATION 4:
+1. Make itens flex and centered.
+2. Make a complete darkred circle.
+3. Start the animation with the full scacle of the circle. scale(1).
+4. Change the scale to 1.5 to make it look bigger and then make it at the normal scale again.
+5. Make the step 4 two more times.

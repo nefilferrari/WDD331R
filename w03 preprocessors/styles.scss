@@ -1,0 +1,18 @@
+//colors
+$body-background-color: rgb(150, 196, 199);
+$form-background-color: rgb(229, 248, 253);
+$input-color: rgb(255, 255, 255);
+$headlines-color : rgb(255, 255, 255);
+
+
+body {
+    background-color: $body-background-color;          
+}
+
+#contactform {
+    background-color: $form-background-color;
+}
+#contactform input, #contactform textarea {
+    background-color: $input-color;
+}              
+ 
