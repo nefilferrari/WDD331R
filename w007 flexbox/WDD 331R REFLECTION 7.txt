@@ -1,0 +1,19 @@
+1.	What was the most impactful thing(s) you learned this week and why do you think so?
+- Flex box was really cool, it looks really powerfull. It was fun to code the w07 prove.
+
+2.	What questions do you have about this week's chosen topic(s) and/or exercises (first-time students) or websites you are working on (repeat students)? 
+- What should I do different in my code?
+
+3.	Would you like specific feedback from your instructor? If so, what things would you like feedback on? (Please contact your instructor or use their method (such as Canvas calendar, email, or MS teams) to meet with your instructor or find out if they are having office hours.)
+- Feedback on this week assingment.
+
+
+4.	Where would you go next to learn more about this week's topic(s)? Give 2-3 links to resources that look promising to help answer the questions you indicated in the quiz question above.
+- https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+
+5.	Did you participate with the class on Microsoft Teams? (You can participate by asking a question, answering a question, or sharing a resource you’ve found. Or you can share your thoughts on what you’re learning this week. Or you can answer any questions your instructor might have given in their announcement.)
+- Yes.
+
+6.	Please rate your success with learning and this week’s work on a scale of 1 to 4.
+- 4.
